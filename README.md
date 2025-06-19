@@ -14,6 +14,8 @@
 **Prefijos disponibles:**
 `omatple`, `isabelcayu`, `franciscoj`, `josemanuel`, `antoniocer`, `pedroarias`, `mariagomez`, `devhub`, `devkit`, `devgo`, `devup`, `dev`.
 
+**Contraseña por defecto:** password
+
 ## Paneles
 
 * **Panel de Usuario** → disponible para cualquier usuario autenticado; permite completar la información inicial.
